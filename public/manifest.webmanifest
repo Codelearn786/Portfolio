@@ -1,0 +1,14 @@
+{
+  "name": "Personal PWA Media Lab",
+  "short_name": "MediaLab",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "icons": [
+    {"src": "/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "/icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
